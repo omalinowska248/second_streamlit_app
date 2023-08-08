@@ -2,6 +2,8 @@ import streamlit
 
 streamlit.title('My Second Streamlit App!')
 
+streamlit.stop()
+
 """
 import streamlit
 import pandas
